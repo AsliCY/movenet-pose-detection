@@ -2,7 +2,7 @@
 
 Real-time human pose detection using TensorFlow's MoveNet model. This project provides an easy-to-use implementation for detecting and tracking human poses in images and videos.
 
-![Demo GIF](demo.gif)
+![Demo GIF](./demo.gif)
 
 ## Features
 
